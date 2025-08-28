@@ -5,7 +5,6 @@ import { FaInstagram } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import Link from "next/link";
 import { HiArrowCircleRight } from "react-icons/hi";
-import Header from "../header/page";
 
 
 

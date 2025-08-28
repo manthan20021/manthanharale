@@ -49,7 +49,7 @@ export default function Home(){
 
                {/* img div */}
             <div className='border-r-[0.2px] border-[#3F3F3F]  w-[200px] h-[164px] mr-[15px] pt-[32px] absolute right-0 top-[-20px] '>
-            <img src="/photos/myphoto.jpg" className='h-28  w-28 ml-[73px] rounded-xl shadow-[0_8px_23px_black]'  />
+            <img src="/myphoto.jpg" className='h-28  w-28 ml-[73px] rounded-xl shadow-[0_8px_23px_black]'  />
             </div>
 
             </div>
@@ -58,7 +58,7 @@ export default function Home(){
               I’m a <span className="text-3xl text-[#DDDDDD]" >Full-Stack Developer</span> who crafts modern, dynamic web apps powered by the <span className="text-3xl text-[#DDDDDD]">MERN stack</span> and optimized with <span className="text-3xl text-[#DDDDDD]">Next.js</span>.
             </h1>
              <img className='w-[200px]'
-             src="/photos/sign.png"
+             src="/sign.png"
               alt="photo" 
             />
 
@@ -73,13 +73,13 @@ export default function Home(){
        {/* For Mobil */}
         <div className="h-full w-full sm:hidden flex flex-col items-center">
 
-          <img src="/photos/myphoto.jpg" className='h-20  w-20  shadow-[0_8px_23px_black]' />
+          <img src="/myphoto.jpg" className='h-20  w-20  shadow-[0_8px_23px_black]' />
           <h4 className='text-[10px] mt-5  font-semibold text-[#987750]'>INTRODUCTION</h4>
           {/* <h1 className='text-[20px] font-sans font-semibold text-[#DDDDDD] '>Manthan<span className='ml-2'>Harale</span></h1> */}
                               <h1 className='font-medium text-3xl text-[#DDDDDD]'>Manthan Harale</h1>
 
           {/* <img className='w-[200px] mt-2'
-             src="/photos/sign.png"
+             src="/sign.png"
               alt="photo" 
             />        */}
 <h1 className='text-[#888888] flex  items-center justify-center  font-[10px] font-jost'>I’m a Full-Stack Developer who crafts</h1>

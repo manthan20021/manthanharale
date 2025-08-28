@@ -83,7 +83,7 @@ export default function Footer(){
     <div className=' w-full h-20 sm:pt-2 mt-5 sm:mb-5 border-[#303030] border-t-[.1px] flex items-center'>
        <h6 className='text-[#888888] sm:text-[17px]'>Developed by:</h6>
       
-     <img className=' ml-2  sm:h-10  h-8 justify-center' src="/photos/sign.png" alt="" />
+     <img className=' ml-2  sm:h-10  h-8 justify-center' src="/sign.png" alt="" />
   
     </div>
       

@@ -20,12 +20,12 @@ export default function Services(){
 
         <div className='mt-5 sm:p-[40px] py-4 px-2 sm:border-none w-full border-y-[.1px] border-gray-700  sm:bg-[#181715]'>
         <h1 className='font-medium text-3xl text-[#DDDDDD] mb-[17px]'>Frontend Apps</h1>
-        <p className='text-[#888888] text-xl '> "I make the visible parts of websites easy to use and look good on any device."</p>
+        <p className='text-[#888888] text-xl '>I make the visible parts of websites easy to use and look good on any device.</p>
         </div>
 
         <div className='mt-5 sm:p-[40px] py-4 px-2 sm:border-none w-full border-y-[.1px] border-gray-700  sm:bg-[#181715]'>
         <h1 className='font-medium text-3xl text-[#DDDDDD] mb-[17px]'>Backend Heavy Apps</h1>
-        <p className='text-[#888888] text-xl '>I handle the server side so data is stored, managed, and delivered correctly..</p>
+        <p className='text-[#888888] text-xl '>I handle the server side so data is stored, managed, and delivered correctly.</p>
         </div>
 
         <div className='mt-5 sm:p-[40px] py-4 px-2 sm:border-none w-full border-y-[.1px] border-gray-700  sm:bg-[#181715]'>
